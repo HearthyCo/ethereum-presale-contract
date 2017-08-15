@@ -1,4 +1,4 @@
 # ethereum-presale-contract
 ethereum presale contract
 
-... work in progress ...
+Hearthy Ethereum Presale contract,, forked from Santiment contract
