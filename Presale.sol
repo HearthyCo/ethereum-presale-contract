@@ -34,9 +34,9 @@ contract Presale {
     string public constant VERSION = "0.1.4";
 
     /* ====== configuration START ====== */
-    uint public constant PRESALE_START  = 3172723; /* approx. 12.02.2017 23:50 */
-    uint public constant PRESALE_END    = 3302366; /* approx. 06.03.2017 00:00 */
-    uint public constant WITHDRAWAL_END = 3678823; /* approx. 06.05.2017 00:00 */
+    uint public constant PRESALE_START  = TDB; /* approx. 30.08.2017 23:50 */
+    uint public constant PRESALE_END    = TDB; /* approx. 30.09.2017 00:00 */
+    uint public constant WITHDRAWAL_END = TDB; /* approx. 10.10.2017 00:00 */
 
     address public constant OWNER = 0xE76fE52a251C8F3a5dcD657E47A6C8D16Fdf4bFA;
 
