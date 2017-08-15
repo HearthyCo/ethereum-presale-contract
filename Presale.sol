@@ -38,9 +38,9 @@ contract Presale {
     uint public constant PRESALE_END    = TDB; /* approx. 30.09.2017 00:00 */
     uint public constant WITHDRAWAL_END = TDB; /* approx. 10.10.2017 00:00 */
 
-    address public constant OWNER = 0xE76fE52a251C8F3a5dcD657E47A6C8D16Fdf4bFA;
+    address public constant OWNER = To define
 
-    uint public constant MIN_TOTAL_AMOUNT_TO_RECEIVE_ETH = 4000;
+    uint public constant MIN_TOTAL_AMOUNT_TO_RECEIVE_ETH = 2000;
     uint public constant MAX_TOTAL_AMOUNT_TO_RECEIVE_ETH = 12000;
     uint public constant MIN_ACCEPTED_AMOUNT_FINNEY = 1;
 
